@@ -1,2 +1,2 @@
 # HADS
-Laboratorios asignatura Herramientas Avanzadas de Desarrollo de Software
+Laboratorios de la asignatura Herramientas Avanzadas de Desarrollo de Software
