@@ -1,2 +1,2 @@
-# HADS
-Laboratorios de la asignatura Herramientas Avanzadas de Desarrollo de Software
+# ASF
+Advanced Software Tools subject-s laboratories
